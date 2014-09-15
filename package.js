@@ -1,9 +1,15 @@
 var fs = Npm.require('fs');
 var postFiles = [];
+var imgs = [];
 
 fs.readdirSync('packages/contribution/private').forEach(
   function (postFile) {
     postFiles.push('private/' + postFile);
+  });
+
+fs.readdirSync('packages/contribution/public').forEach(
+  function (img) {
+    imgs.push('public/' + img);
   });
 
 Package.describe({
@@ -14,7 +20,7 @@ Package.describe({
 Package.onUse(function (api, where) {
   api.versionsFrom('METEOR@0.9.1.1');
   api.add_files(postFiles, ['server'], {isAsset: true});
-  api.add_files('public/all_that_cement_mixer.png', ['client'], {isAsset: true});
+  api.add_files(imgs, ['client'], {isAsset: true});
   api.add_files(['lib/server/inject.js'], ['server']);
 });
 
