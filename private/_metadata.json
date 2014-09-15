@@ -1,18 +1,17 @@
 {
   "1": {
-    "slug": "post_human_rights",
-    "title": "Declaration of human rights",
-    "tag": "text"
+    "slug": "all_that",
+    "title": "All that - David Foster Wallace",
+    "tag": "novell"
   },
-  
+
   "2": {
-    "slug": "post_markdown",
+    "slug": "markdown",
     "title": "Markdown"
   },
-  
+
   "3": {
-    "slug": "post_recipes",
-    "title": "The New Kitchen Cookbook",
-    "tag": "kitchen"
+    "slug": "recipes",
+    "title": "New Recipes"
   }
 }

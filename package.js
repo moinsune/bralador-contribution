@@ -14,6 +14,7 @@ Package.describe({
 Package.onUse(function (api, where) {
   api.versionsFrom('METEOR@0.9.1.1');
   api.add_files(postFiles, ['server'], {isAsset: true});
+  api.add_files('public/all_that_cement_mixer.png', ['client'], {isAsset: true});
   api.add_files(['lib/server/inject.js'], ['server']);
 });
 
