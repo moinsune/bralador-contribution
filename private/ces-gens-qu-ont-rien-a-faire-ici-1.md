@@ -1,3 +1,5 @@
+# Ces gens qu'ont rien à faire ici 1
+
 Ça devient dur, dans ce foutu monde, de voir la poésie jaillir du pavé en sueur. T'as beau rester perché au dessus du caniveau toute la journée durant, tu verras pas venir, dans le filet de la fange, une paire de quatrain, une image inouïe, qui te ferait croire encore au vieil alexandrin : 
 *Tu m'as donné ta boue et j'en ai fait de l'or*, qu'il 
 disait.
