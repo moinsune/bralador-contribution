@@ -8,8 +8,7 @@ C'est pas que j'ai les orteils fragiles, mais ça fait mauvais genre sous les jo
 La poésie, donc, faut la traquer, la renifler, la débusquer partout où c'est qu'on dirait pas qu'elle est. Faut quitter les harnais, décrocher les œillères et lâcher les chevaux. Et c'est d'autant plus dur aujourd'hui -Oh, merde!- que le cheval n'est plus à Troie à suspecter son triomphe : il se cache  dans une barquette Findus, haché menu. Même lui, il a honte, il préfère passer pour un veau. 
 C'est qu'y en a toute une tripotée, des veaux, et des gros bœufs aussi, qui découragent en prenant le frais dans les ruelles.
 
-*Les pense-à-rien, les crache-
-impôts
+*Les pense-à-rien, les crache-impôts
 Rumin'nt par tas noirs aux terrasses,
 Eun' bris' d'amour leur fait la grâce
 Ed'fraîchir un peu leurs tronch's de veaux.* *
