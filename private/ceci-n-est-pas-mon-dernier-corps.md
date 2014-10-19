@@ -3,9 +3,9 @@
 
  <br>
 
-  ............j'attends ardemment ce jour où mon ego, 
+  ............ j'attends ardemment ce jour où mon ego, 
 
-  cette vague tumeur érotique et dolorifère _____ disparaîtra.
+  cette vague tumeur érotique et dolorifère ____________ disparaîtra.
 
 
 <br>
@@ -17,7 +17,7 @@
 
                               
 
-Le ciel luisait comme une immense méduse sacrifiée _____ l'herbe pousse autour de moi comme si elle voulait me dire quelque chose
+Le ciel luisait comme une immense méduse sacrifiée __________ l'herbe pousse autour de moi comme si elle voulait me dire quelque chose
 
 je n'ai pas encore les ouïes assez fines, assez tendres, je travaille chaque jour à ma plus haute vulnérabilité, et je suis fier de mes petites oreilles comme Nieztsche
 
