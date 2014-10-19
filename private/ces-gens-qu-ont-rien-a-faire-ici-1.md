@@ -20,11 +20,10 @@ Mais pour le salut de ton âme sèche, ils font racler leurs godasses sur le pav
 
 Les mecs dont on se planque, ça inspire le respect. Voir les casquettes en tergal, les jolis costards et les mignons bustiers détourner les yeux aux tables de restaurant, c'est jouissif. Et c'est pas tout le monde qui peut se vanter d'y parvenir. Le vendeur de roses, lui, il y arrive.
 
-*J'les r'luque : et c'est 
-irrésistible,
-Y s' caval'nt, y z'ont peur de moi,
-Peur que j'leur chopp' leur comestibles.
-Peur pour leurs femm's, pour je n'sais quoi.**
+> J'les r'luque : et c'est irrésistible,  
+> Y s' caval'nt, y z'ont peur de moi,  
+> Peur que j'leur chopp' leur comestibles.  
+> Peur pour leurs femm's, pour je n'sais quoi.  *
 
 C'est comme les cigarillos de Gainsbarre, ça fait du vide autour de soi. Mais pas sûr que ça lui plaise, au vendeur de roses. Ça l'attriste même et pour de vrai, moi, ça me fout le cafard de le voir esseulé comme s'il avait de la merde dans son panier. 
 C'est que ça ferait ringard de lui lâcher un denier. Ça fait touriste, ça fait Américain au Trocadéro, ça fait Parisien qui ose lever les yeux pour regarder la tour Eiffel, ça fait Chinois qui croit manger une bouillabaisse sur le vieux port de Marseille. T'es un vrai, toi ! Tu vas pas te faire enfler par un type qui croit que t'es là pour compter fleurette. Sûr qu'il est Rom, ou qu' c'est tout comme. T'as vu la tête du gars d'en face, il a payé pour une rose qui va crever sur la table entre poire et fromage. Envoie-le chier, ce charlatan, c'est un service que tu lui rends. Envoie-le chier en bonne et due forme, commande un digeo bonhomme, et  l'addition avec. Dieu reconnaîtra les siens.
