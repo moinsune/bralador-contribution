@@ -1,23 +1,28 @@
 {
   "1": {
+    "slug": "a-propos",
+    "title": "À propos"
+  },
+    
+  "2": {
     "slug": "ces-gens-qu-ont-rien-a-faire-ici-1",
     "title": "Ces gens qu'ont rien à faire ici",
     "tag": "portraits"
   },
 
-  "2": {
+  "3": {
     "slug": "deposition-d-un-fada-de-quartier",
     "title": "Déposition d'un fada de quartier",
     "tag": "textes"
   },
 
-  "3": {
+  "4": {
     "slug": "cold-sweat",
     "title": "Cold Sweat",
      "tag": "textes"
   },
     
-  "4": {
+  "5": {
     "slug": "ceci-n-est-pas-mon-dernier-corps",
     "title": "Ceci n'est pas mon dernier corps",
      "tag": "textes"
