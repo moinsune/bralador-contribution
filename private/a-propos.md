@@ -1,7 +1,7 @@
 ### Contributeurs permanents 
 <br>
   
-  
+ 
 **<a name="gimeno">Jonathan Gimeno</a>** <br>
 Co-créateur de l'association Moins une, doctorant en littérature générale et comparée. Vit à Montpellier, travaille sur le romantisme  et l'art abstrait, dort peu, rêve quand même, parle mal, écrit de la main gauche. 
 
