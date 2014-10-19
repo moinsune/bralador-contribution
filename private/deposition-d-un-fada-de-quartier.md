@@ -1,3 +1,5 @@
+# Déposition d'un fada de quartier
+
 Oui, messieurs d’armes, je me trouvais dans la rue à
 une heure tardive de la tardivité parce que la télévision 
 a dit que Nouillorque est en ruines et ça m’a terrorifié
@@ -470,5 +472,5 @@ jusqu’à l’aurore fatiguée quand le soleil se lève pour
 me féliciter d’être vivant et que j’ai envie de manger
 des crêpes.
 
-[Henri-Frédéric BLANC](/a-propos/#blanc)
+[Henri-Frédéric BLANC](/article/a-propos/#blanc)
 
