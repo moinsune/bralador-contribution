@@ -28,6 +28,14 @@ Ce site, encore vagissant, sera donc le moyen de nous faire connaître, et de pa
 **<a name="blanc">Henri-Frédéric Blanc</a>**<br>
 Ecrivain burlesco-grotesco-subversif né en 1954 à Marseille, auteur d'une trentaine d'ouvrages. Cherche à changer le monde par le biais de la littérature, désire,exige et revendique le paradis sur-le-champ.
 
+>NOUS AIMONS TROP LA VIE POUR SUPPORTER LE MONDE.
+Le vieillissement et la dégradation rapides de la réalité sous l'empire tyrannique de la rationalité marchande, forme de démence collective, nécessite de toute urgence la mise en oeuvre d'une force poétique vouée à la déconnaissance, à la remythification des choses et au retour de la magie.
+Or, de la poésie, si contrefaite, si complice du non-sens, si courtisane de l'inessentiel et du superficiel, si dévote du Gros Rien et des petits riens, ne reste plus que le nom. Un trognon pourri. Le ver a mangé le fruit.
+Nous voulons retrouver le fruit dans le ver.
+Nous sommes partisans d'une contre-culture poétique, autant dire une CONTRE-POESIE, poésie critique, poésie de combat, désireuse de réarmer les mots,de faire exploser les phrases à la gueule des murs, de détricoter le bon sens, d'écraser les vieilles idées sangsues ventousées au réel. S'il n'y a plus grand-chose à faire, il y a beaucoup à défaire.
+La seule manière de comprendre véritablement le monde c'est de le voir avec des yeux de primitif, mais nous ne sommes nullement passéistes car c'est justement la poésie momifiée, évaporée, soporifique d'aujourd'hui qui tortille du passé pour détourner notre attention du Moloch économique et servir d'écran de fumée au massacre de l'art et de l'humain. C'est pourquoi nous pouvons chanter les réunions de personnel de la Sécurité sociale, les stations-service, les parkings de supermarché et la mélancolie d'une usine à saucisses de Dusseldorff au crépuscule. L'enfer est plein de merveilles.
+
+
 **<a name="koegel">Tristan Koëgel</a>**<br>
 Co-créateur de l'association Moins une, auteur, professeur de Lettres. Vit à Aix en Provence, veut tout ; rêve debout.
 
